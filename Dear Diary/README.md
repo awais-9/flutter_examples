@@ -1,13 +1,6 @@
 # 📓 Dear Diary
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A diary application to pen down your thoughts
-
-## Overview
-A diary app that connects to a REST API I built a while ago for managing personal diary entries.
-
-See [REST API project](https://github.com/Alameen688/MyDiary/tree/develop) here 
 
 ## 🚀 Technology Stack
 
